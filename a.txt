@@ -1,3 +1,0 @@
-this is a file for test github
-if i can make github to ignore a file has changed, this line will not on Github version
-One more times
